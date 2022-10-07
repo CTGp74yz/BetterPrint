@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: BetterPrint
+Version: 1.0.0
+Summary: A better print function
+Home-page: https://github.com/CTGp74yz/BetterPrint
+Author: CTG_Playz
+Author-email: <szimmerman2024@jamesrumsey.net>
+License: UNKNOWN
+Keywords: python,print
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Education, Programming
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Microsoft :: Windows
+
+Now you can easily print with colors!
+
